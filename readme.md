@@ -127,5 +127,5 @@ void handle_root() {
 server.send(200, "text/html", HTML);
 }
 ````
-#### SALIDA POR EL TERMINAL
+
 

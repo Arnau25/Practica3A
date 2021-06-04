@@ -3,8 +3,8 @@
 
 // SSID & Password
 
-const char* ssid = "MIWIFI_2G_2jcE"; // Enter your SSID here
-const char* password = "9GLX7t3u"; //Enter your Password here
+const char* ssid = "MOVISTAR_252A"; // Enter your SSID here
+const char* password = "88879C62F447277C17F6"; //Enter your Password here
 
 
 WebServer server(80); // Object of WebServer(HTTP port, 80 is defult)
